@@ -1,1 +1,1 @@
-# cl-tic-tac-toe
+The creation of a command line tic-tac-toe game following The Odin Project.
