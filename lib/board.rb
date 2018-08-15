@@ -1,10 +1,10 @@
 class Board
 
-require "./Player"
+require "player"
 
 	def initialize
-		@name1 = ""
-		@name2 = ""
+		@name1 = "p1"
+		@name2 = "p2"
 		@player1 = nil
 		@player2 = nil
 		@game_board = []
